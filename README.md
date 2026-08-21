@@ -9,10 +9,11 @@ This list contains links to benchmarks and rankings of models, agents and other 
 
 ## Model Benchmarks
 
-- [ARC Prize ~ arcprize.org](https://arcprize.org/leaderboard) - ARC-AGI has evolved from its first versions (ARC-AGI-1 and 2) which measured passive fluid intelligence,
+- [ARC Prize](https://arcprize.org/leaderboard) - ARC-AGI has evolved from its first versions (ARC-AGI-1 and 2) which measured passive fluid intelligence,
   to ARC-AGI-3 which challenges AI agents to adapt on the fly to novel interactive environments.
-- [DeepSWE ~ deepswe.datacurve.ai](https://deepswe.datacurve.ai/) - Measuring frontier coding agents on original, long-horizon engineering tasks
+- [DeepSWE](https://deepswe.datacurve.ai/) - Measuring frontier coding agents on original, long-horizon engineering tasks
 
 ## Agent Benchmarks
 
-- [Terminal-Bench ~ tbench.ai](https://www.tbench.ai/) - terminal-bench is a collection of harbor-native benchmarks to help agent makers quantify their agents' terminal mastery
+- [Terminal-Bench](https://www.tbench.ai/) - Terminal-bench is a collection of harbor-native benchmarks to help agent makers quantify their agents' terminal mastery
+- [OpenRouter Agent Rankings](https://openrouter.ai/apps/category/coding) - Agent rankings by tokens usage
