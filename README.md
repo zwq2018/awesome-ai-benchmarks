@@ -1,6 +1,6 @@
-# Awesome AI ranking list
+# Awesome AI Benchmarks
 
-This list contains links to benchmarks and rankings of models, agents and other things from AI-world
+This list contains links to benchmarks and rankings of models, agents and other things from AI-world.
 
 ## Table of Contents
 
