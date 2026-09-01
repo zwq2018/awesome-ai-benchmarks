@@ -17,6 +17,7 @@ This list contains links to benchmarks and rankings of models, agents and other 
 - [ExploitGym](https://www.cybergym.io/exploitgym/) - A benchmark of real-world vulnerabilities spanning userspace programs, Chrome's V8 JavaScript engine, and the Linux kernel. Given a vulnerability and an input that triggers it, AI agents are tasked with crafting a full exploit that achieves unauthorized code execution.
 - [CyberGym-E2E](https://www.cybergym.io/cybergym-e2e/) - A large-scale, end-to-end cybersecurity benchmark of real-world vulnerabilities across widely used open-source projects. Each task asks an agent to do the whole job: discover the vulnerability, generate a proof-of-concept, and write a patch that fixes it without breaking anything else.
 - [Agents' Last Exam](https://agents-last-exam.org/) - Agents' Last Exam is building the largest-scale, broadest-coverage agent evaluation benchmark to date, measuring performance on long-horizon, economically valuable tasks with verifiable outcomes.
+- [Chartography](https://surgehq.ai/benchmarks/chartography) - A Benchmark for professional chart understanding. It tests whether frontier models can read the Kaplan-Meier curves, candlestick charts, contour maps, Sankey diagrams, Bode plots, and other specialized graphics that professionals use to make real decisions every day. It evaluates visual perception, domain-aware interpretation, and multi-step graphical reasoning.
 
 ## Agent Benchmarks
 
